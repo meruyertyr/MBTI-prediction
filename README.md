@@ -1,4 +1,6 @@
 #   Myers Briggs Personality Prediction
+![image](https://user-images.githubusercontent.com/113831223/220665757-9bc38ff0-efde-4a23-bea0-c5c31320e514.png)
+
 
 Suleyman Demirel University
 
